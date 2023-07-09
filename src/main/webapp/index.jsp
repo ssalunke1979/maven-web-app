@@ -3,7 +3,9 @@
 <h1><font color='blue'> Welcome to My First Website <font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
+<details>
 <summary>Jenkins CI-CD Notes</summary>
+
 <p>
 1. jenkins - 192.168.1.10
 2. sonarqube - 192.168.1.11
@@ -92,7 +94,7 @@ ln -s  /etc/nginx/sites-available/jenkins.conf /etc/nginx/sites-enabled/jenkins
 vagrant ssh -c "ls -l /etc/nginx/sites-available/" node1
 
 </p>
-
+</details>
    <h2> Good Day, Happy Weed End!!! </h2>
 
 </body>
