@@ -2,7 +2,7 @@
 <body>
 <h1><font color='blue'> Welcome to My First Website <font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
-
+<p>
 1. jenkins - 192.168.1.10
 2. sonarqube - 192.168.1.11
 3. tomcat - 192.168.1.12
@@ -89,7 +89,7 @@ ln -s  /etc/nginx/sites-available/jenkins.conf /etc/nginx/sites-enabled/jenkins
 #use of ls command inside any vagrant nodes
 vagrant ssh -c "ls -l /etc/nginx/sites-available/" node1
 
-
+</p>
 
    <h2> Good Day, Happy Weed End!!! </h2>
 
